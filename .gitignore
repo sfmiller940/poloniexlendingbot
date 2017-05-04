@@ -6,6 +6,6 @@ nohup.out
 error.log
 *.idea
 *.csv
-#.cfg
+*.cfg
 
 docs/_build/
